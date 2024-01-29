@@ -7,19 +7,31 @@ AZ-900 Azure Fundamentals Study Cram - 2022 Edition!
                                                           
 Azure cloud provides agility, consumption-based pricing, high availability, faster recovery, and scalability.
 
-Agility: Real-life example: Imagine a buffet at a restaurant where you can choose to fill your plate with different dishes based on what you feel like eating. You have the flexibility to pick and choose based on your specific tastes at that moment. In the context of cloud services, agility means being able to quickly and easily choose and adapt the right service to meet your specific needs or goals.
+Agility: 
 
-Consumption-based pricing: Real-life example: Electricity usage at home is a great example of this. You are billed based on the amount of electricity you use. In cloud services, it's like paying for only the resources and features you actually use, similar to how you pay for the exact amount of electricity you consume each month.
+Real-life example: Imagine a buffet at a restaurant where you can choose to fill your plate with different dishes based on what you feel like eating. You have the flexibility to pick and choose based on your specific tastes at that moment. In the context of cloud services, agility means being able to quickly and easily choose and adapt the right service to meet your specific needs or goals.
 
-High availability: Real-life example: Think of a reliable food delivery service that is available 24/7, no matter the weather or time of day. You can count on it to deliver food to your doorstep whenever you need it. In cloud services, high availability means that the infrastructure and services are designed to be resilient and reliable, ensuring they are almost always accessible and operational.
+Consumption-based pricing: 
 
-Faster recovery: Real-life example: Cloud storage services that automatically save and back up your important documents or photos can act as an analogy. If you accidentally delete a file, you can quickly recover it from the backup without any hassle. In cloud services, faster recovery means having mechanisms in place to swiftly recover data or services after any disruptions or issues.
+Real-life example: Electricity usage at home is a great example of this. You are billed based on the amount of electricity you use. In cloud services, it's like paying for only the resources and features you actually use, similar to how you pay for the exact amount of electricity you consume each month.
 
-Scalability: Real-life example: A customizable modular shelf that allows you to add or remove shelves based on your storage needs can represent scalability. You can adjust it to accommodate more or fewer items as required. In cloud services, scalability means the ability to easily adjust resources to meet changing demands without worrying about resource limitations.
+High availability: 
+
+Real-life example: Think of a reliable food delivery service that is available 24/7, no matter the weather or time of day. You can count on it to deliver food to your doorstep whenever you need it. In cloud services, high availability means that the infrastructure and services are designed to be resilient and reliable, ensuring they are almost always accessible and operational.
+
+Faster recovery: 
+
+Real-life example: Cloud storage services that automatically save and back up your important documents or photos can act as an analogy. If you accidentally delete a file, you can quickly recover it from the backup without any hassle. In cloud services, faster recovery means having mechanisms in place to swiftly recover data or services after any disruptions or issues.
+
+Scalability: 
+
+Real-life example: A customizable modular shelf that allows you to add or remove shelves based on your storage needs can represent scalability. You can adjust it to accommodate more or fewer items as required. In cloud services, scalability means the ability to easily adjust resources to meet changing demands without worrying about resource limitations.
 
 These real-life examples should help you understand how these cloud features work in a more relatable way.
 
+
 02:36
+
 
 Agility in terms of using the right service that meets specific goals and adapting to changing needs.
 Consumption-based pricing allows paying only for what is used, accommodating fluctuations in usage and seasonality.
