@@ -3,14 +3,21 @@ https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
 
 AZ-900 Azure Fundamentals Study Cram - 2022 Edition!
 
-00:06
-
-An update to the previous study cram with over 150,000 views and a new 8 1/2 hour study course
-The study course covers all the skills assessed in the exam and includes detailed lessons and handouts
-
 ✦                                                                                                                                                                                      ![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/5f60549b-c6a0-4bc1-978c-ea66dddc5a26)
                                                           
 Azure cloud provides agility, consumption-based pricing, high availability, faster recovery, and scalability.
+
+Agility: Real-life example: Imagine a buffet at a restaurant where you can choose to fill your plate with different dishes based on what you feel like eating. You have the flexibility to pick and choose based on your specific tastes at that moment. In the context of cloud services, agility means being able to quickly and easily choose and adapt the right service to meet your specific needs or goals.
+
+Consumption-based pricing: Real-life example: Electricity usage at home is a great example of this. You are billed based on the amount of electricity you use. In cloud services, it's like paying for only the resources and features you actually use, similar to how you pay for the exact amount of electricity you consume each month.
+
+High availability: Real-life example: Think of a reliable food delivery service that is available 24/7, no matter the weather or time of day. You can count on it to deliver food to your doorstep whenever you need it. In cloud services, high availability means that the infrastructure and services are designed to be resilient and reliable, ensuring they are almost always accessible and operational.
+
+Faster recovery: Real-life example: Cloud storage services that automatically save and back up your important documents or photos can act as an analogy. If you accidentally delete a file, you can quickly recover it from the backup without any hassle. In cloud services, faster recovery means having mechanisms in place to swiftly recover data or services after any disruptions or issues.
+
+Scalability: Real-life example: A customizable modular shelf that allows you to add or remove shelves based on your storage needs can represent scalability. You can adjust it to accommodate more or fewer items as required. In cloud services, scalability means the ability to easily adjust resources to meet changing demands without worrying about resource limitations.
+
+These real-life examples should help you understand how these cloud features work in a more relatable way.
 
 02:36
 
