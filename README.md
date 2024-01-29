@@ -71,12 +71,27 @@ Hybrid Cloud:
 - Real-life example: Consider a hybrid car that can use both traditional fuel and electric power. Depending on the driving conditions, the car automatically switches between the two power sources to optimize performance and efficiency. Similarly, in a hybrid cloud scenario, organizations can use a combination of on-premises resources (private cloud) and public cloud resources to manage variable workloads, optimize costs, and ensure flexibility.  
 
 ✦
-PaaS focuses on providing blocks for app development while SaaS provides business functions
-
 16:12
+
+PaaS focuses on providing blocks for app development while SaaS provides business functions
 
 PaaS allows developers to focus on their app and data, while SaaS provides ready-to-use business functions like SharePoint and email.
 PaaS does not provide a business function on its own, unlike SaaS.
+
+![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/9d901976-156c-43b2-81d1-531c789c61ec)
+
+Platform as a Service (PaaS):
+
+Real-life example: 
+
+Think of a construction company that provides pre-built building blocks and tools to architects and builders. These building blocks allow the architects and builders to focus on the design and construction of the building, without having to worry about the infrastructure, like concrete and steel. Similarly, PaaS provides developers with pre-built software components, application development tools, and infrastructure, allowing them to focus on creating and deploying their applications without managing the underlying hardware or software layers.
+Software as a Service (SaaS):
+
+Real-life example: 
+
+Consider using a cloud-based email service like Gmail or Microsoft Office 365. You can access and use email and productivity applications directly without having to worry about installing, maintaining, or managing the underlying hardware or software. Similarly, SaaS provides ready-to-use business functions like email, document collaboration, customer management, or file storage, allowing users to access and use these applications directly without having to manage the infrastructure or backend services.
+In summary, PaaS empowers developers to focus on building their applications by providing them with development tools and infrastructure, while SaaS offers ready-to-use business functions that users can directly access and utilize, without needing to manage the underlying technology stack.
+
 
 ✦
 Azure has multiple regions to meet data sovereignty requirements, ensure disaster recovery, and minimize latency.
