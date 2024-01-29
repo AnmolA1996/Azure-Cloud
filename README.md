@@ -42,19 +42,31 @@ Scalability eliminates concerns about resource limitations.
 ✦
 Azure provides different types of cloud services, including private and hybrid cloud.
 
-08:09
+08:09 and 10:46
 
 Private cloud refers to running on-premises infrastructure with quotas and policies for control.
 Hybrid cloud involves using both private and public cloud, allowing for variable workloads and burst usage.
+
 Azure is an example of a public cloud service with options for operational expenditure (OpEx) payment model.
 
-✦
 Public clouds are suitable for variable workload scenarios where you pay for what you use.
 
-10:46
-
 The public cloud is ideal for scenarios where workloads have variable loads, such as on and off usage or rapid growth for startups.
+
 Shared responsibilities exist between the customer and the provider in the public cloud, with different responsibilities depending on the service used.
+![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/dd9da8a9-27cc-4f3c-99ea-693e3410c33f)
+
+Public Cloud:
+
+- Real-life example: Imagine using a public transportation system, like buses or trains. You only pay for the rides you take, and the transportation system is responsible for maintaining and operating the vehicles and infrastructure. Similarly, in a public cloud, you pay for the resources you use, like virtual machines and storage, and the cloud service provider takes care of the underlying infrastructure and maintenance.
+
+Private Cloud:
+
+- Real-life example: Think of a privately owned and managed swimming pool in a residential property. The owners have full control over its use, who can access it, and the rules for its maintenance and operation. Similarly, in a private cloud, an organization runs its own cloud infrastructure with complete control over the resources, policies, and security.
+
+Hybrid Cloud:
+
+- Real-life example: Consider a hybrid car that can use both traditional fuel and electric power. Depending on the driving conditions, the car automatically switches between the two power sources to optimize performance and efficiency. Similarly, in a hybrid cloud scenario, organizations can use a combination of on-premises resources (private cloud) and public cloud resources to manage variable workloads, optimize costs, and ensure flexibility.  
 
 ✦
 PaaS focuses on providing blocks for app development while SaaS provides business functions
