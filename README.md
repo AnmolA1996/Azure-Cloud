@@ -1,4 +1,6 @@
-✦
+This is summary of Azure Fundamentals AZ-900 John Savill video- 
+https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
+
 AZ-900 Azure Fundamentals Study Cram - 2022 Edition!
 
 00:06
