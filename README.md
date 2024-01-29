@@ -8,7 +8,8 @@ AZ-900 Azure Fundamentals Study Cram - 2022 Edition!
 An update to the previous study cram with over 150,000 views and a new 8 1/2 hour study course
 The study course covers all the skills assessed in the exam and includes detailed lessons and handouts
 
-✦                                                                                                                                                                                                                                                
+✦                                                                                                                                                                                      ![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/5f60549b-c6a0-4bc1-978c-ea66dddc5a26)
+                                                          
 Azure cloud provides agility, consumption-based pricing, high availability, faster recovery, and scalability.
 
 02:36
