@@ -54,7 +54,9 @@ Public clouds are suitable for variable workload scenarios where you pay for wha
 The public cloud is ideal for scenarios where workloads have variable loads, such as on and off usage or rapid growth for startups.
 
 Shared responsibilities exist between the customer and the provider in the public cloud, with different responsibilities depending on the service used.
+
 ![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/dd9da8a9-27cc-4f3c-99ea-693e3410c33f)
+
 
 Public Cloud:
 
