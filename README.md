@@ -124,12 +124,11 @@ In summary, Azure regions are designed to meet data sovereignty requirements, en
 
 ![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/bb37901f-9ddb-4963-888e-e708447a3dd1)
 
-
-
 ✦
-Azure uses pairings of regions for resiliency and updates
 
-23:24
+23:24 & 26:00
+
+Azure uses pairings of regions for resiliency and updates
 
 Pairings exist within the same geopolitical boundary, except for Brazil
 Pairings are used by certain services in Azure for resiliency
@@ -139,12 +138,23 @@ Regions have multiple physical buildings that act as availability zones
 ✦
 Resiliency is achieved by distributing services over multiple buildings using availability zones.
 
-26:00
-
 The concept of a subscription is used to expose availability zones in each region.
 Availability zones can differ between different subscriptions, but within a single subscription, the same availability zones will always map to the same buildings.
 Some services are inherently zone redundant, while others need to be pinned to a specific availability zone and multiple instances need to be created to achieve resiliency.
 To ensure resiliency across availability zones, zonal VMs need to be created.
+
+ Certainly! Let's break down the information with real-world analogies for clarity:
+
+Pairings for Resiliency and Updates:
+Real-life example: Think of a backup generator for a building. If the main power source fails, the backup generator ensures that the building continues to have uninterrupted power. Similarly, Azure uses pairings of regions for resiliency. Just as the backup generator ensures continuous power, if one region experiences issues, the paired region can seamlessly take over to avoid downtime. 
+
+Availability Zones and Subscriptions:
+Real-life example: Consider a hotel with multiple wings, each equipped with its own independent power and water supply. Each wing represents an availability zone, and the entire hotel is like an Azure region. The concept of a subscription in Azure is similar to guests booking rooms in this hotel. Guests (or subscribers) are assigned rooms in specific wings (availability zones) with consistent amenities.
+
+Zone Redundancy and Zonal VMs:
+Real-life example: Picture a network of bank branches, each with its own secure vault to store cash. If one branch experiences a security issue, the cash in the other branches remains secure. This represents services that are inherently zone redundant. Zonal VMs, on the other hand, are like having multiple bank branches in a city to ensure that a service (or bank branch) remains available even if a specific location faces difficulties.
+
+By using these real-world examples, we can understand how Azure's regions, pairings, availability zones, and resiliency features work in a more tangible way.  
 
 ✦
 Azure AD (AAD) is a cloud-based identity provider used by Azure and other services.
@@ -153,6 +163,9 @@ Azure AD (AAD) is a cloud-based identity provider used by Azure and other servic
 
 Azure AD contains users, groups, devices, and applications.
 It supports various authentication protocols like OpenID Connect, SAML, WS-Fed, and OAuth2.
+
+![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/d6e7ebbd-2836-407b-bf04-3b98964fb627)
+
 
 ✦
 Multifactor authentication and conditional access are important for strong authentication and authorization in Azure AD.
