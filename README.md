@@ -1,3 +1,6 @@
+https://www.linkedin.com/posts/ann-afamefuna_az900-activity-7189846130690560000-gHWE?utm_source=share&utm_medium=member_desktop - AZ 900 Handwritten Notes.
+
+
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
 https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
 
