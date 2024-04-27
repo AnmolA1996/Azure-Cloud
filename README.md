@@ -1,4 +1,7 @@
 https://www.linkedin.com/posts/ann-afamefuna_az900-activity-7189846130690560000-gHWE?utm_source=share&utm_medium=member_desktop - AZ 900 Handwritten Notes.
+https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189906193950134272-3d4x?utm_source=share&utm_medium=member_desktop - Ansible for Teenagers.
+https://www.linkedin.com/posts/ann-afamefuna_azure-activity-7189877427991433216-6zIS?utm_source=share&utm_medium=member_desktop - Azure Handbook (Microsoft Official).
+
 
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
