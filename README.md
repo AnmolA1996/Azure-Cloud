@@ -8,6 +8,16 @@ https://www.linkedin.com/posts/ann-afamefuna_cka-activity-7189742496652922881-AC
 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-EFE3?utm_source=share&utm_medium=member_desktop -  How to set up CICD Pipeline
 
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190638195150073856-znNk?utm_source=share&utm_medium=member_desktop - 
+Requirements: CI/CD pipeline System
+1. Git - local version control system
+2. GitHub - As Distributed version control system.
+3. Jenkins - Continous Integration tool.
+4. Maven - As a Build Tool.
+5. Anisible - Configuration Management & Deployment tool.
+6. docker -Containerization
+7. Kubernetes - As Container Management Tool.
+
 
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
