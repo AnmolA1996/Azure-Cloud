@@ -18,7 +18,7 @@ Requirements: CI/CD pipeline System
 6. docker -Containerization
 7. Kubernetes - As Container Management Tool.
 
-
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190487622576717824-AY3A?utm_source=share&utm_medium=member_desktop - Future of DevOps. 
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
 https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
