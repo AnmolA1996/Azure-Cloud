@@ -4,7 +4,7 @@ https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-718990619395013427
 
 https://www.linkedin.com/posts/ann-afamefuna_azure-activity-7189877427991433216-6zIS?utm_source=share&utm_medium=member_desktop - Azure Handbook (Microsoft Official).
 
-https://www.linkedin.com/posts/ann-afamefuna_cka-activity-7189742496652922881-ACNE?utm_source=share&utm_medium=member_desktop - 
+https://www.linkedin.com/posts/ann-afamefuna_cka-activity-7189742496652922881-ACNE?utm_source=share&utm_medium=member_desktop - Cloud Native Certified Kubernetes Administrator
 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-EFE3?utm_source=share&utm_medium=member_desktop -  How to set up CICD Pipeline
 
