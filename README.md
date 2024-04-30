@@ -28,6 +28,7 @@ Requirements: CI/CD pipeline System
 
 
 https://www.linkedin.com/posts/ann-afamefuna_gitlab-activity-7190431397696749568-QUTf?utm_source=share&utm_medium=member_desktop - GitLab
+https://www.linkedin.com/posts/ann-afamefuna_gitops-activity-7186214176300662784-ZuFg?utm_source=share&utm_medium=member_desktop - A beginner guide to Gitops
 https://www.linkedin.com/posts/ann-afamefuna_git-activity-7190411791774990336-9s3-?utm_source=share&utm_medium=member_desktop - Git.
 https://www.linkedin.com/posts/ann-afamefuna_git-note-activity-7188568458693853185-l2KN?utm_source=share&utm_medium=member_desktop - Git Notes for professionals.
 
@@ -57,6 +58,7 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187031511353671680
 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7186936785896095744-AXlM?utm_source=share&utm_medium=member_desktop - Terraform
+https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7186137003082563584-oRoF?utm_source=share&utm_medium=member_desktop - IaaS using Terraform & Ansible. 
 
 Go from Zero to Hero with our Linux System Administrator.
 Lesson 1 ➡ https://lnkd.in/darzXURj
@@ -70,19 +72,22 @@ https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187511122860642306-
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187509278402899968-b5eg?utm_source=share&utm_medium=member_desktop - 50 Linux must for Cloud Engineer.
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7186962686583205889-FJP4?utm_source=share&utm_medium=member_desktop - The Linux commands handbook. 
 https://www.linkedin.com/posts/ann-afamefuna_shell-scripting-activity-7187026001564950528-S-2-?utm_source=share&utm_medium=member_desktop - Unix Shell Scripting.
-https://www.linkedin.com/posts/ann-afamefuna_bash-activity-7186669261350703105-S9Ei?utm_source=share&utm_medium=member_desktop - bash scripting. 
+https://www.linkedin.com/posts/ann-afamefuna_bash-activity-7186669261350703105-S9Ei?utm_source=share&utm_medium=member_desktop - bash scripting.
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7186501987906043904-6x1z?utm_source=share&utm_medium=member_desktop - Linux notes for devops newbies
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189545073083113474-Gajg?utm_source=share&utm_medium=member_desktop - Kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189544744882946048-BYVZ?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189343715012853761-At9F?utm_source=share&utm_medium=member_desktop
 
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7186252919615172608-y_yg?utm_source=share&utm_medium=member_desktop - Kubernetes notes beginner to advanced.
 https://www.linkedin.com/posts/ann-afamefuna_cka-activity-7189742496652922881-ACNE?utm_source=share&utm_medium=member_desktop - Cloud Native Certified Kubernetes Administrator
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7187664328697798657-2Bzr?utm_source=share&utm_medium=member_desktop - Kubernetes Cheat sheet
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7190250584724140032-ItPq?utm_source=share&utm_medium=member_desktop - Kubernetes pocket guide.
-
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7186599508036763648-vC8X?utm_source=share&utm_medium=member_desktop - Kubernetes in practise
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7186463135640215553-xNT5?utm_source=share&utm_medium=member_desktop - Kubernetes security guide. 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188624363766628353-lasJ?utm_source=share&utm_medium=member_desktop - Kubernetes from scratch. 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188714718155464705-zgjV?utm_source=share&utm_medium=member_desktop - Kuberneted for Teenagers
-https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188754211076009984--tsI?utm_source=share&utm_medium=member_desktop - Kubernetes security best practices. 
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188754211076009984--tsI?utm_source=share&utm_medium=member_desktop - Kubernetes security best practices.
 
 
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840-Snas?utm_source=share&utm_medium=member_desktop - Learn complete python in simple way.
@@ -96,9 +101,10 @@ https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7189380382838968320
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187783202684452864-FPez?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328-gyuu?utm_source=share&utm_medium=member_desktop - Docker
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187140955764834305-O009?utm_source=share&utm_medium=member_desktop - Docked Kubernetes Helm
-
+https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7186402526848507904-nRHD?utm_source=share&utm_medium=member_desktop - Docker free e-book 
 
 https://www.linkedin.com/posts/ann-afamefuna_cloud-computing-activity-7187285320856440832-6br1?utm_source=share&utm_medium=member_desktop - Cloud computing basic
+https://www.linkedin.com/posts/ann-afamefuna_cloud-computing-activity-7186019291639463937-xRCN?utm_source=share&utm_medium=member_desktop - Cloud Computing tutorials. 
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
 https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
