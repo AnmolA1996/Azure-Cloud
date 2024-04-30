@@ -12,7 +12,10 @@ https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-E
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187590378286366720-N910?utm_source=share&utm_medium=member_desktop - CICD with Docker & Kubernetes.
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187269905480597504-V8Kv?utm_source=share&utm_medium=member_desktop - CICD with Kubernetes.
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7188470454485979136-nn-p?utm_source=share&utm_medium=member_desktop - CICD 86pg
+https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
+https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7186840749395632128-sfYp?utm_source=share&utm_medium=member_desktop - CI Jenkins. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190638195150073856-znNk?utm_source=share&utm_medium=member_desktop - 
+
 
 Requirements: CI/CD pipeline System
 1. Git - local version control system
@@ -53,7 +56,7 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187031511353671680
 
 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
-
+https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7186936785896095744-AXlM?utm_source=share&utm_medium=member_desktop - Terraform
 
 Go from Zero to Hero with our Linux System Administrator.
 Lesson 1 ➡ https://lnkd.in/darzXURj
@@ -64,8 +67,10 @@ Lesson 4 ➡ https://lnkd.in/dAQ7DCmX
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188627190668771329-4mcr?utm_source=share&utm_medium=member_desktop - Linux priviledge escalation.
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188542469439975424-uvyJ?utm_source=share&utm_medium=member_desktop - Linux common issues & Solutions. 
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187511122860642306-Z48U?utm_source=share&utm_medium=member_desktop - Linux troubleshooting scenarios.
-https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187509278402899968-b5eg?utm_source=share&utm_medium=member_desktop - 50 Linux must for Cloud Engineer. 
-
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187509278402899968-b5eg?utm_source=share&utm_medium=member_desktop - 50 Linux must for Cloud Engineer.
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7186962686583205889-FJP4?utm_source=share&utm_medium=member_desktop - The Linux commands handbook. 
+https://www.linkedin.com/posts/ann-afamefuna_shell-scripting-activity-7187026001564950528-S-2-?utm_source=share&utm_medium=member_desktop - Unix Shell Scripting.
+https://www.linkedin.com/posts/ann-afamefuna_bash-activity-7186669261350703105-S9Ei?utm_source=share&utm_medium=member_desktop - bash scripting. 
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189545073083113474-Gajg?utm_source=share&utm_medium=member_desktop - Kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189544744882946048-BYVZ?utm_source=share&utm_medium=member_desktop
@@ -92,7 +97,6 @@ https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187783202684452864
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328-gyuu?utm_source=share&utm_medium=member_desktop - Docker
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187140955764834305-O009?utm_source=share&utm_medium=member_desktop - Docked Kubernetes Helm
 
-https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
 
 https://www.linkedin.com/posts/ann-afamefuna_cloud-computing-activity-7187285320856440832-6br1?utm_source=share&utm_medium=member_desktop - Cloud computing basic
 
