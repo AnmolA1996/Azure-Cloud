@@ -120,7 +120,6 @@ https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7183654016789233665-Uv
 https://www.linkedin.com/posts/ann-afamefuna_cloud-formation-activity-7183837520567099392-BADZ?utm_source=share&utm_medium=member_desktop - AWS Cloud formation.
 
 
-![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/d4ecb7fa-5f74-4146-b177-2c2e5ffe1a71)
 Free DevOps Projects to build Your portfolio - ![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/da587f0f-b108-46f1-94ae-a3ed2e382391)
 https://www.linkedin.com/posts/ann-afamefuna_devop-cloudsecurity-devsecops-activity-7184126327644381185-L88A?utm_source=share&utm_medium=member_desktop
 
