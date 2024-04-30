@@ -1,5 +1,6 @@
 https://www.linkedin.com/posts/ann-afamefuna_az900-activity-7189846130690560000-gHWE?utm_source=share&utm_medium=member_desktop - AZ 900 Handwritten Notes.
 https://www.linkedin.com/posts/ann-afamefuna_azure-activity-7189877427991433216-6zIS?utm_source=share&utm_medium=member_desktop - Azure Handbook (Microsoft Official).
+https://www.linkedin.com/posts/ann-afamefuna_microsoft-azure-activity-7185895366058258434-YhO7?utm_source=share&utm_medium=member_desktop - Azure Tips & Tricks. 
 https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7189115677226524672-MA4A?utm_source=share&utm_medium=member_desktop - Azure Devops practical guide.
 https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7188192531111632896-KDJZ?utm_source=share&utm_medium=member_desktop - Azure DevOps for Teenagers. 
 
@@ -74,6 +75,7 @@ https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7186962686583205889-
 https://www.linkedin.com/posts/ann-afamefuna_shell-scripting-activity-7187026001564950528-S-2-?utm_source=share&utm_medium=member_desktop - Unix Shell Scripting.
 https://www.linkedin.com/posts/ann-afamefuna_bash-activity-7186669261350703105-S9Ei?utm_source=share&utm_medium=member_desktop - bash scripting.
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7186501987906043904-6x1z?utm_source=share&utm_medium=member_desktop - Linux notes for devops newbies
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7185830023151439872-Yi82?utm_source=share&utm_medium=member_desktop - Linux cmdline a beginner guide. 
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189545073083113474-Gajg?utm_source=share&utm_medium=member_desktop - Kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189544744882946048-BYVZ?utm_source=share&utm_medium=member_desktop
@@ -88,6 +90,8 @@ https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-718646313564021
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188624363766628353-lasJ?utm_source=share&utm_medium=member_desktop - Kubernetes from scratch. 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188714718155464705-zgjV?utm_source=share&utm_medium=member_desktop - Kuberneted for Teenagers
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188754211076009984--tsI?utm_source=share&utm_medium=member_desktop - Kubernetes security best practices.
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7185986053516775424-fs8P?utm_source=share&utm_medium=member_desktop - Kubernetes essentials practical guide to learn 222pg
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7185830304987627521-pRmf?utm_source=share&utm_medium=member_desktop - Kubernetes 
 
 
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840-Snas?utm_source=share&utm_medium=member_desktop - Learn complete python in simple way.
