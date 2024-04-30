@@ -9,9 +9,11 @@ https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-718928325246387814
 
 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-EFE3?utm_source=share&utm_medium=member_desktop -  How to set up CICD Pipeline
-https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187590378286366720-N910?utm_source=share&utm_medium=member_desktop - CICD with Docker & Kubernetes
+https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187590378286366720-N910?utm_source=share&utm_medium=member_desktop - CICD with Docker & Kubernetes.
+https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187269905480597504-V8Kv?utm_source=share&utm_medium=member_desktop - CICD with Kubernetes.
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7188470454485979136-nn-p?utm_source=share&utm_medium=member_desktop - CICD 86pg
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190638195150073856-znNk?utm_source=share&utm_medium=member_desktop - 
+
 Requirements: CI/CD pipeline System
 1. Git - local version control system
 2. GitHub - As Distributed version control system.
@@ -45,6 +47,7 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187552471727104000
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187969704529936384-xqin?utm_source=share&utm_medium=member_desktop - Everything about devops questions. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188227494267797504-dVoK?utm_source=share&utm_medium=member_desktop - Mastering DevOps interviews. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190487622576717824-AY3A?utm_source=share&utm_medium=member_desktop - Future of DevOps.
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187406852375134208-vF0g?utm_source=share&utm_medium=member_desktop - DevOps interview questions.
 
 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
@@ -88,6 +91,8 @@ https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328
 
 
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
+
+https://www.linkedin.com/posts/ann-afamefuna_cloud-computing-activity-7187285320856440832-6br1?utm_source=share&utm_medium=member_desktop - Cloud computing basic
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
 https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
