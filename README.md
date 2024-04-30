@@ -18,10 +18,77 @@ https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187590378286366720-N
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187269905480597504-V8Kv?utm_source=share&utm_medium=member_desktop - CICD with Kubernetes.
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7188470454485979136-nn-p?utm_source=share&utm_medium=member_desktop - CICD 86pg
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
+https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7184404097066819585-MUT_?utm_source=share&utm_medium=member_desktop - Jenkins Free
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7186840749395632128-sfYp?utm_source=share&utm_medium=member_desktop - CI Jenkins. 
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7182963247916933122-MTiA?utm_source=share&utm_medium=member_desktop - CI Jenkins.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190638195150073856-znNk?utm_source=share&utm_medium=member_desktop - 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-project-activity-7184959466541355009-ZtRt?utm_source=share&utm_medium=member_desktop - CICD project. 
+
+![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/41afb6c4-062f-442e-99c6-ce0d4b584e20)
+
+1. TUTORIALS - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7184517608904220674-U8CX?utm_source=share&utm_medium=member_desktop
+
+🔴 Learn Jenkins! Complete Jenkins Course -
+Zero to Hero
+https://lnkd.in/dGrGmhut
+
+🔴 Jenkins CI CD By Mr. Ashok | DevOps Tools
+https://lnkd.in/d9swuiWJ
+
+🔴 Jenkins Full Course | Jenkins Tutorial For Beginners
+https://lnkd.in/d-_qhBXM
+
+🔴 Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners
+https://lnkd.in/d-wjPAKh
+
+🔴 Jenkins Tutorial for Beginners 
+https://lnkd.in/dDrrsnTg
+
+🔴 Jenkins Full Course 
+https://lnkd.in/dRXbYtXd
+
+🔴 Advanced Jenkins tutorial 
+https://lnkd.in/dVcxrYE3
+
+2. LABS
+
+🔴 Jenkins Tutorial - How to Deploy a Test Server with Docker + Linux (Full Course)
+https://lnkd.in/dNG2jBFN
+
+🔴 Live DevOps Project for Resume - Jenkins
+CICD with Git Hub Integration
+https://lnkd.in/dGcmFHMY
+
+🔴 JENKINS PIPELINE FROM SCRATCH
+https://lnkd.in/dm29aWBa
+
+🔴 Amit Kumar Gupta : Cicd Series 1-9
+https://lnkd.in/dvitBdfd
+
+🔴 CICD pipeline for Java application to deploy on kubernetes cluster using Jenkins
+https://lnkd.in/dNG4BaJu
+
+🔴 Jenkins Cicd deployment 
+https://lnkd.in/dhNjHvjH
+
+🔴 Mega Real-time End to End DevOps CI/CD Project Git Jenkins Nexus SonarQube| HandsOn Lab
+https://lnkd.in/deCvSKf7
+
+🔴 Setting up CI-CD Pipeline for an E-Commerce App
+https://lnkd.in/dPH4z4Af
+https://lnkd.in/d-xzCR8F
+
+🔴 Jenkins CI/CD Workflow Implementation with Real-time
+https://lnkd.in/daGQ28BC
+
+🔴 Production Ready CI/CD Pipeline Setup
+https://lnkd.in/d_BeVj65
+
+ hashtag#like 👍 hashtag#share and follow Ann Felix 
+
+ I Post Contents about hashtag#DevOp | hashtag#cloudsecurity | hashtag#devsecops | hashtag#scrummaster | hashtag#sre | hashtag#cloudarchitect 
+❇️Check the hashtag#comment section 👇for group links, where you can meet fellow learners and also access Unlimited tutorials .
+hashtag#linkedinpost hashtag#linkedincommunity hashtag#linkedin hashtag#cicdpipelines hashtag#project hashtag#jenkinscicd hashtag#jenkins
 
 
 Requirements: CI/CD pipeline System
@@ -52,6 +119,45 @@ https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7185076085754130432-Y2
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7183654016789233665-UvYD?utm_source=share&utm_medium=member_desktop - AWS handbook 
 https://www.linkedin.com/posts/ann-afamefuna_cloud-formation-activity-7183837520567099392-BADZ?utm_source=share&utm_medium=member_desktop - AWS Cloud formation.
 
+
+![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/d4ecb7fa-5f74-4146-b177-2c2e5ffe1a71)
+Free DevOps Projects to build Your portfolio - ![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/da587f0f-b108-46f1-94ae-a3ed2e382391)
+https://www.linkedin.com/posts/ann-afamefuna_devop-cloudsecurity-devsecops-activity-7184126327644381185-L88A?utm_source=share&utm_medium=member_desktop
+
+1. Deploy Java Application on AWS 3-Tier Architecture
+https://lnkd.in/dp4h-w5w
+
+2. Deploy Apache Web Server using Terraform IaC
+https://lnkd.in/d6qqfKSB
+
+3. Deploy Scalable VPC Architecture on AWS cloud
+https://lnkd.in/dRXZVggt
+
+4. Deploy HTML based static web application on AWS EC2
+https://lnkd.in/dwu7xAmn
+
+5. Dockerize a Java Web Application using docker-compose
+https://lnkd.in/dACFdiRN
+
+6. Fun with Linux for Cloud & DevOps Engineers
+https://lnkd.in/d4uc46_G
+
+7. Deploy Lambda function to create weekly EC2 AMI backup
+https://lnkd.in/diKfacbU
+
+8. Ansible automation to configure Tomcat on multi environment
+https://lnkd.in/dbrtx3bA
+
+9. GitHub to BitBucket Migration
+https://lnkd.in/dC2WdBzP
+
+10. Deploy Scalable VPC Architecture on AWS cloud
+https://lnkd.in/dRXZVggt
+
+11. Deploy Disaster Recovery of Workloads on AWS: Warm Standby
+https://lnkd.in/dx3aY9VJ
+
+
 https://www.linkedin.com/posts/ann-afamefuna_networking-activity-7183287737549012994-N4ku?utm_source=share&utm_medium=member_desktop - networking. 
 https://www.linkedin.com/posts/ann-afamefuna_networking-activity-7182409895743287298-H45k?utm_source=share&utm_medium=member_desktop - Networking for devops 
 
@@ -69,10 +175,79 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187031511353671680
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7185421380857774080-kxzQ?utm_source=share&utm_medium=member_desktop - Devops interview question bank. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-interview-activity-7183196112265043969-cO6z?utm_source=share&utm_medium=member_desktop - Devops interview question bank. 
 
+
+![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/cac79389-409b-496b-9903-5f9942e3a179)
+
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7186936785896095744-AXlM?utm_source=share&utm_medium=member_desktop - Terraform
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7186137003082563584-oRoF?utm_source=share&utm_medium=member_desktop - IaaS using Terraform & Ansible. 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7182074607821090816-4cTl?utm_source=share&utm_medium=member_desktop - 250 questions teraaform associate certification
+
+1. Tutorials  - https://www.linkedin.com/posts/ann-afamefuna_devops-cloudengineers-cloudsecurity-activity-7183948829904257024-eQF5?utm_source=share&utm_medium=member_desktop
+🟣 terraform assessment 
+https://lnkd.in/dmFvQSRe
+
+🟣 practical terraform project
+https://lnkd.in/dpJuveEd
+
+🟣 Terraform Course – Automate your AWS cloud infrastructure
+https://lnkd.in/dvpzNT5M
+
+🟣 HashiCorp Terraform Associate Certification Course by Andrew Brown
+https://lnkd.in/dn5m2NKQ
+
+🟣 Terraform for DevOps Beginners + Labs by KodeKloud
+https://lnkd.in/d8nkTj3n
+
+🟣 Terraform Foundations Course by Derek Morgan
+https://lnkd.in/dWYByZjH
+
+🟣 HashiCorp Terraform Associate certification exam
+https://lnkd.in/dhV35bJG
+
+🟣 Learn Terraform (and AWS) by Building a Dev Environment - Full Course for Beginners
+https://lnkd.in/dA44F__P
+
+🟣 Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)
+https://lnkd.in/dRs3YFu3
+
+🟣 Azure Terraform Full Course I Microsoft
+Azure Terraform Course
+https://lnkd.in/dM-h-R8y
+
+2. Labs 
+
+🟣 Lab 1.Terraform Introduction | Terraform Tutorial for Beginners | Terraform for DevOps Engineer
+https://lnkd.in/dCpQyKNz
+
+🟣 Lab 2. How to Use Visual Studio code for Terraform | Creating EC2 Instance using Terraform
+https://lnkd.in/dvMC5a2J
+
+🟣 Lab 3. [Scenario-1]: How to Create VPC using Terraform | AWS VPC using Terraform | AWS Terraform
+https://lnkd.in/dtT3zMzF
+
+🟣 Lab 4. AWS NAT Gateway using Terraform | AWS Private Subnet using Terraform | Terraform Tutorial
+https://lnkd.in/dqTeZQdc
+
+🟣 Lab 5. Terraform Input Variables | How to Use Terraform Input Variables | Terraform Variables
+https://lnkd.in/dqsAKSyH
+
+🟣 Lab 6. Terraform Output Variables Example | Terraform Output Values | Terraform Outputs
+https://lnkd.in/dhkgFexc
+
+🟣 Lab 7. Terraform Local Values | How to use Terraform Local Values | Terraform Locals
+https://lnkd.in/dHZEW_sy
+
+🟣 Lab 8. How to Create EC2 Instance in AWS using Terraform | Create EC2 Instance using Terraform
+https://lnkd.in/dKjwzqGT
+
+🟣 Lab 9. AWS EC2 Instance,Security Group in AWS Using Terraform | Terraform Create Security Group AWS
+https://lnkd.in/dMA-J7GE
+
+I Post Contents on hashtag#devops | hashtag#cloudengineers | hashtag#cloudsecurity | hashtag#devsecops | hashtag#ScrumMaster.
+Check the Comment section for group links, where you can meet fellow learners and also access Unlimited tutorials and Books 📕.
+ hashtag#aws hashtag#azure hashtag#security hashtag#infrastructure hashtag#terraform
+
 
 Go from Zero to Hero with our Linux System Administrator.
 Lesson 1 ➡ https://lnkd.in/darzXURj
@@ -114,6 +289,7 @@ https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-718527150043269
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7182228239610699776-Rx9w?utm_source=share&utm_medium=member_desktop - 225 realtime questions 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7182650670750068736-4awC?utm_source=share&utm_medium=member_desktop - kbuernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7183445573935525889-gjwE?utm_source=share&utm_medium=member_desktop - kubernetes best practises
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7184307832362602497-6biu?utm_source=share&utm_medium=member_desktop - Kubernetes stories
 
 
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840-Snas?utm_source=share&utm_medium=member_desktop - Learn complete python in simple way.
@@ -148,7 +324,6 @@ Requirements: CI/CD pipeline System
 5. Anisible - Configuration Management & Deployment tool.
 6. docker -Containerization
 7. Kubernetes - As Container Management Tool.
-8. 
 
 A full DevOps roadmap:
 
@@ -158,7 +333,6 @@ A full DevOps roadmap:
 2. Culture and Collaboration:
 🔹Cultural Shift: Emphasize the importance of cultural changes, fostering collaboration between development and operations teams, and breaking down silos.
 🔸DevOps Culture Building:
-
 
 3. Tools and Automation:
 🔹Version Control
@@ -210,6 +384,116 @@ A full DevOps roadmap:
 🔸Measure and Improve: Continuously measure and improve these metrics to track DevOps maturity.
 
 ![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/89c2a2b8-a74c-4c5d-8c5d-fa375e28d83d)
+
+https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7184517608904220674-U8CX?utm_source=share&utm_medium=member_desktop
+YOUTUBE CHANNEL TO LEARN DEVOPS 
+![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/5488e9c6-9341-4afa-a95b-aa4c02b6df7e)
+
+⭐️Note: This tutorial should be followed, the way I numbered it. 
+
+COMPLETE DEVOPS TUTORIAL:
+
+1. DevOps Pre-requisite 
+
+https://lnkd.in/dD9Z_5qA
+
+2. Networking 
+
+https://lnkd.in/dEmZ8zhY
+https://lnkd.in/dwfmwmA9
+
+3. Linux
+
+Lesson 1 ➡️ https://lnkd.in/darzXURj
+Lesson 2 ➡️ https://lnkd.in/dJStSRtn
+Lesson 3 ➡️ https://lnkd.in/dRv9WYbr
+Lesson 4 ➡️ https://lnkd.in/dAQ7DCmX
+
+4. Shell scripting 
+
+https://lnkd.in/dKrD_up7
+https://lnkd.in/dJVqMt3Y
+https://lnkd.in/d7VVbbNJ
+
+5. Git & GitHub 
+
+https://lnkd.in/dEp3KrTJ
+https://lnkd.in/d6aM7Ek7
+https://lnkd.in/duksFRgG
+https://lnkd.in/ddpKXxqt
+
+6. Databases 
+
+https://lnkd.in/duMVr4bn
+https://lnkd.in/dnUQ_uGe
+
+7. Artifact Repository Manager
+
+https://lnkd.in/dgNHs7WD
+
+8. Docker 
+
+https://lnkd.in/dPddbJTf
+https://lnkd.in/dnjHdxPR
+
+9. Jenkins 
+
+https://lnkd.in/dMHv9T8U
+https://lnkd.in/dcynPYYH
+
+10. AWS 
+
+https://lnkd.in/dz7d5qEc
+https://lnkd.in/dmi-TMv9
+https://lnkd.in/dx-iqVNe
+
+11. SSH 
+
+Mobaxterm : 
+https://lnkd.in/ds7nUhbx
+
+Putty :
+https://lnkd.in/gGgW7Ns9
+
+
+12. Yaml
+https://lnkd.in/dNqrXjmV
+https://lnkd.in/dNqrXjmV
+
+13. Kubernetes 
+https://lnkd.in/duGZwHYX
+https://lnkd.in/de84ESNv
+
+14. Helm
+https://lnkd.in/ds_8WB7G
+
+15. Terraform 
+https://lnkd.in/dvpzNT5M
+https://lnkd.in/dRs3YFu3
+https://lnkd.in/d8nkTj3n
+
+16. Python 
+https://lnkd.in/d-EhshQz
+https://lnkd.in/dYjay9ia
+https://lnkd.in/dFtNz_9D
+https://lnkd.in/dcYq8nE2
+
+17. Ansible
+https://lnkd.in/dGKkrXrA
+https://lnkd.in/dNugwtVW
+https://lnkd.in/dhknHJXp
+
+18. Prometheus
+https://lnkd.in/dpXhmVqs
+https://lnkd.in/dStQbpRX
+
+19. Grafana
+https://lnkd.in/ddAV7_-p
+https://lnkd.in/dRwfE7A4
+
+HAPPY LEARNING 📌
+👑 DEVOPS ENGINEER 👑 CLOUD ARCHITECT 
+
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
 https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
