@@ -2,7 +2,8 @@ https://www.linkedin.com/posts/ann-afamefuna_az900-activity-7189846130690560000-
 
 https://www.linkedin.com/posts/ann-afamefuna_azure-activity-7189877427991433216-6zIS?utm_source=share&utm_medium=member_desktop - Azure Handbook (Microsoft Official).
 
-https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7189115677226524672-MA4A?utm_source=share&utm_medium=member_desktop - Azure Devops practical guide. 
+https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7189115677226524672-MA4A?utm_source=share&utm_medium=member_desktop - Azure Devops practical guide.
+https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7188192531111632896-KDJZ?utm_source=share&utm_medium=member_desktop - Azure DevOps for Teenagers. 
 
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189906193950134272-3d4x?utm_source=share&utm_medium=member_desktop - Ansible for Teenagers.
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189283252463878144-pHDN?utm_source=share&utm_medium=member_desktop - Ansible Automation. 
@@ -37,6 +38,11 @@ https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189734983165497344-ZM
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190121431840518144-3240?utm_source=share&utm_medium=member_desktop - DevOps Questions.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188815246201937921--RG3?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7189613995765489664-vNg7?utm_source=share&utm_medium=member_desktop - DevOps basics a beginner guide.
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188290437856579584-_PYt?utm_source=share&utm_medium=member_desktop - DevOps question set. 
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188012011513921538--WHw?utm_source=share&utm_medium=member_desktop - DevOps interview questions. 
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187969704529936384-xqin?utm_source=share&utm_medium=member_desktop - Everything about devops questions. 
+
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188227494267797504-dVoK?utm_source=share&utm_medium=member_desktop - Mastering DevOps interviews. 
 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190487622576717824-AY3A?utm_source=share&utm_medium=member_desktop - Future of DevOps.
 
@@ -70,13 +76,19 @@ https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840
 
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189615679203885059-stSn?utm_source=share&utm_medium=member_desktop - The Python handbook.
 
+https://www.linkedin.com/posts/ann-afamefuna_python-activity-7188373455728197632-OWQg?utm_source=share&utm_medium=member_desktop - Python Notes for Proffessionals.
+
+https://www.linkedin.com/posts/ann-afamefuna_maven-activity-7188106407118790656-twpD?utm_source=share&utm_medium=member_desktop - Maven Project documentation. 
+
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7189380382838968320-qIX4?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet. 
+https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328-gyuu?utm_source=share&utm_medium=member_desktop - Docker
+
+https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
 https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
 
 AZ-900 Azure Fundamentals Study Cram - 2022 Edition!
-
 ✦                                                                                                                                                                                      ![image](https://github.com/AnmolA1996/Azure-Cloud/assets/105154769/5f60549b-c6a0-4bc1-978c-ea66dddc5a26)
                                                           
 Azure cloud provides agility, consumption-based pricing, high availability, faster recovery, and scalability.
