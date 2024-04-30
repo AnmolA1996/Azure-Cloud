@@ -16,6 +16,7 @@ https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7188470454485979136-n
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7186840749395632128-sfYp?utm_source=share&utm_medium=member_desktop - CI Jenkins. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190638195150073856-znNk?utm_source=share&utm_medium=member_desktop - 
+https://www.linkedin.com/posts/ann-afamefuna_cicd-project-activity-7184959466541355009-ZtRt?utm_source=share&utm_medium=member_desktop - CICD project. 
 
 
 Requirements: CI/CD pipeline System
@@ -42,6 +43,7 @@ https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7190121790541619200-SU
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189131929718296576-quA0?utm_source=share&utm_medium=member_desktop - AWS. 
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189734983165497344-ZMKK?utm_source=share&utm_medium=member_desktop - AWS Security
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7187077414575849472-CVc8?utm_source=share&utm_medium=member_desktop - AWS Lab practical guide. 
+https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7185076085754130432-Y2vl?utm_source=share&utm_medium=member_desktop - AWS
 
 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190121431840518144-3240?utm_source=share&utm_medium=member_desktop - DevOps Questions.
@@ -54,7 +56,8 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187969704529936384
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188227494267797504-dVoK?utm_source=share&utm_medium=member_desktop - Mastering DevOps interviews. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190487622576717824-AY3A?utm_source=share&utm_medium=member_desktop - Future of DevOps.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187406852375134208-vF0g?utm_source=share&utm_medium=member_desktop - DevOps interview questions.
-https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187031511353671680-RkBt?utm_source=share&utm_medium=member_desktop - DevOps interview guide. 
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187031511353671680-RkBt?utm_source=share&utm_medium=member_desktop - DevOps interview guide.
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7185421380857774080-kxzQ?utm_source=share&utm_medium=member_desktop - Devops interview question bank. 
 
 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
@@ -91,12 +94,15 @@ https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-718862436376662
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188714718155464705-zgjV?utm_source=share&utm_medium=member_desktop - Kuberneted for Teenagers
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188754211076009984--tsI?utm_source=share&utm_medium=member_desktop - Kubernetes security best practices.
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7185986053516775424-fs8P?utm_source=share&utm_medium=member_desktop - Kubernetes essentials practical guide to learn 222pg
-https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7185830304987627521-pRmf?utm_source=share&utm_medium=member_desktop - Kubernetes 
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7185830304987627521-pRmf?utm_source=share&utm_medium=member_desktop - Kubernetes
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7185569284746526721-dMeB?utm_source=share&utm_medium=member_desktop - Kubernetes for everyone.
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7185271500432691201-xuA3?utm_source=share&utm_medium=member_desktop - Kubernetes getting started. 
 
 
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840-Snas?utm_source=share&utm_medium=member_desktop - Learn complete python in simple way.
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189615679203885059-stSn?utm_source=share&utm_medium=member_desktop - The Python handbook.
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7188373455728197632-OWQg?utm_source=share&utm_medium=member_desktop - Python Notes for Proffessionals.
+https://www.linkedin.com/posts/ann-afamefuna_python-activity-7185681242422460416-DPyK?utm_source=share&utm_medium=member_desktop - Python tutorial (Codes)
 
 https://www.linkedin.com/posts/ann-afamefuna_maven-activity-7188106407118790656-twpD?utm_source=share&utm_medium=member_desktop - Maven Project documentation. 
 
@@ -106,9 +112,73 @@ https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187783202684452864
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328-gyuu?utm_source=share&utm_medium=member_desktop - Docker
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187140955764834305-O009?utm_source=share&utm_medium=member_desktop - Docked Kubernetes Helm
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7186402526848507904-nRHD?utm_source=share&utm_medium=member_desktop - Docker free e-book 
+https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7185341259203416064-SH95?utm_source=share&utm_medium=member_desktop - Docker Guide
+https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7184941087352901632-AJDb?utm_source=share&utm_medium=member_desktop - introduction to docker & docker swarm. 
+
 
 https://www.linkedin.com/posts/ann-afamefuna_cloud-computing-activity-7187285320856440832-6br1?utm_source=share&utm_medium=member_desktop - Cloud computing basic
 https://www.linkedin.com/posts/ann-afamefuna_cloud-computing-activity-7186019291639463937-xRCN?utm_source=share&utm_medium=member_desktop - Cloud Computing tutorials. 
+
+A full DevOps roadmap:
+
+1. Understanding DevOps:
+ Learn the fundamentals of DevOps, its history, and its core principles, including collaboration, automation, and continuous improvement.
+
+2. Culture and Collaboration:
+🔹Cultural Shift: Emphasize the importance of cultural changes, fostering collaboration between development and operations teams, and breaking down silos.
+🔸DevOps Culture Building:
+
+
+3. Tools and Automation:
+🔹Version Control
+🔸Continuous Integration (CI): Implement CI tools (e.g., Jenkins, Travis CI) to automate code integration and testing.
+🔹Continuous Deployment (CD): Explore CD pipelines (e.g., Jenkins, CircleCI) for automated deployment and delivery.
+🔸Containerization: Learn containerization with Docker and container orchestration with Kubernetes.
+🔹Infrastructure as Code (IaC): Understand IaC principles using tools like Terraform or Ansible.
+🔸Monitoring and Logging: Implement monitoring (e.g., Prometheus, Grafana) and logging (e.g., ELK Stack) solutions for real-time insights.
+
+
+4. Continuous Testing:
+🔸Test Automation: Develop automated test suites for unit, integration, and end-to-end testing.
+🔹Shift Left Testing: Integrate testing earlier in the development cycle to catch issues sooner.
+🔸Test Environments: Create and manage consistent test environments.
+
+
+5. Release Management:
+🔸Deployment Strategies: Explore deployment strategies like blue-green, canary, and feature toggles.
+🔹Rollback Plans: Develop rollback plans for unexpected issues during deployments.
+🔸Release Orchestration: Use tools like Spinnaker for release coordination.
+
+
+6. Security (DevSecOps):
+🔸Security Scanning: Integrate security scanning tools for static and dynamic code analysis.
+🔹Vulnerability Management: Continuously monitor and manage vulnerabilities.
+🔸Access Control: Implement role-based access control and least privilege principles.
+
+
+7. Continuous Monitoring and Feedback:
+🔹Performance Monitoring: Monitor application and infrastructure performance.
+🔸User Feedback: Gather and act upon user feedback to drive improvements.
+🔹Incident Response: Develop incident response plans and practice incident mgt.
+
+
+8. Infrastructure and Cloud:
+🔸Cloud Services: Gain proficiency in cloud platforms (AWS, Azure, GCP).
+🔹Serverless Computing: Explore serverless architecture for efficient scaling.
+🔸Auto-scaling and Load Balancing: Configure auto-scaling and load balancing for resilience.
+
+
+9. Advanced DevOps Practices:
+🔹Chaos Engineering: Experiment with controlled failures to build resilient systems.
+🔸GitOps: Implement GitOps for managing infrastructure and deployments.
+🔹AIOps: Explore AI-driven operations for proactive monitoring and incident handling.
+🔸NoOps: Consider NoOps concepts for fully automated operations.
+
+10. DevOps Metrics and KPIs:
+🔹Identify Key Metrics: Determine metrics like lead time, deployment frequency, and mean time to recovery (MTTR).
+🔸Measure and Improve: Continuously measure and improve these metrics to track DevOps maturity.
+
+![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/89c2a2b8-a74c-4c5d-8c5d-fa375e28d83d)
 
 This is summary of Azure Fundamentals AZ-900 John Savill video- 
 https://youtu.be/tQp1YkB2Tgs?si=nwlM4-q5Ggwhnz2i
