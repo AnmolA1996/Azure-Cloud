@@ -3,8 +3,10 @@ https://www.linkedin.com/posts/ann-afamefuna_azure-activity-7189877427991433216-
 https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7189115677226524672-MA4A?utm_source=share&utm_medium=member_desktop - Azure Devops practical guide.
 https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7188192531111632896-KDJZ?utm_source=share&utm_medium=member_desktop - Azure DevOps for Teenagers. 
 
+
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189906193950134272-3d4x?utm_source=share&utm_medium=member_desktop - Ansible for Teenagers.
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189283252463878144-pHDN?utm_source=share&utm_medium=member_desktop - Ansible Automation. 
+
 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-EFE3?utm_source=share&utm_medium=member_desktop -  How to set up CICD Pipeline
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187590378286366720-N910?utm_source=share&utm_medium=member_desktop - CICD with Docker & Kubernetes
@@ -19,16 +21,20 @@ Requirements: CI/CD pipeline System
 6. docker -Containerization
 7. Kubernetes - As Container Management Tool.
 
+
 https://www.linkedin.com/posts/ann-afamefuna_gitlab-activity-7190431397696749568-QUTf?utm_source=share&utm_medium=member_desktop - GitLab
 https://www.linkedin.com/posts/ann-afamefuna_git-activity-7190411791774990336-9s3-?utm_source=share&utm_medium=member_desktop - Git.
 https://www.linkedin.com/posts/ann-afamefuna_git-note-activity-7188568458693853185-l2KN?utm_source=share&utm_medium=member_desktop - Git Notes for professionals.
 
+
 https://www.linkedin.com/posts/ann-afamefuna_interview-activity-7190373203666464768-WsnU?utm_source=share&utm_medium=member_desktop - interview questions.
+
 
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7190198925314711552-Hj2I?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7190121790541619200-SU1z?utm_source=share&utm_medium=member_desktop - AWS questions set in both links.
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189131929718296576-quA0?utm_source=share&utm_medium=member_desktop - AWS. 
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189734983165497344-ZMKK?utm_source=share&utm_medium=member_desktop - AWS Security
+
 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190121431840518144-3240?utm_source=share&utm_medium=member_desktop - DevOps Questions.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188815246201937921--RG3?utm_source=share&utm_medium=member_desktop
@@ -40,7 +46,9 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187969704529936384
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188227494267797504-dVoK?utm_source=share&utm_medium=member_desktop - Mastering DevOps interviews. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190487622576717824-AY3A?utm_source=share&utm_medium=member_desktop - Future of DevOps.
 
+
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
+
 
 Go from Zero to Hero with our Linux System Administrator.
 Lesson 1 ➡ https://lnkd.in/darzXURj
@@ -50,7 +58,9 @@ Lesson 4 ➡ https://lnkd.in/dAQ7DCmX
 
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188627190668771329-4mcr?utm_source=share&utm_medium=member_desktop - Linux priviledge escalation.
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188542469439975424-uvyJ?utm_source=share&utm_medium=member_desktop - Linux common issues & Solutions. 
-https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187511122860642306-Z48U?utm_source=share&utm_medium=member_desktop - Linux troubleshooting scenarios. 
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187511122860642306-Z48U?utm_source=share&utm_medium=member_desktop - Linux troubleshooting scenarios.
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187509278402899968-b5eg?utm_source=share&utm_medium=member_desktop - 50 Linux must for Cloud Engineer. 
+
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189545073083113474-Gajg?utm_source=share&utm_medium=member_desktop - Kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189544744882946048-BYVZ?utm_source=share&utm_medium=member_desktop
@@ -64,15 +74,18 @@ https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-718862436376662
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188714718155464705-zgjV?utm_source=share&utm_medium=member_desktop - Kuberneted for Teenagers
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188754211076009984--tsI?utm_source=share&utm_medium=member_desktop - Kubernetes security best practices. 
 
+
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840-Snas?utm_source=share&utm_medium=member_desktop - Learn complete python in simple way.
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189615679203885059-stSn?utm_source=share&utm_medium=member_desktop - The Python handbook.
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7188373455728197632-OWQg?utm_source=share&utm_medium=member_desktop - Python Notes for Proffessionals.
 
 https://www.linkedin.com/posts/ann-afamefuna_maven-activity-7188106407118790656-twpD?utm_source=share&utm_medium=member_desktop - Maven Project documentation. 
 
+
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7189380382838968320-qIX4?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet. 
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187783202684452864-FPez?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328-gyuu?utm_source=share&utm_medium=member_desktop - Docker
+
 
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
 
