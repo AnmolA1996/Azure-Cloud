@@ -8,7 +8,7 @@ https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-718990619395013427
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189283252463878144-pHDN?utm_source=share&utm_medium=member_desktop - Ansible Automation. 
 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-EFE3?utm_source=share&utm_medium=member_desktop -  How to set up CICD Pipeline
-
+https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7188470454485979136-nn-p?utm_source=share&utm_medium=member_desktop - CICD 86pg
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190638195150073856-znNk?utm_source=share&utm_medium=member_desktop - 
 Requirements: CI/CD pipeline System
 1. Git - local version control system
@@ -22,6 +22,8 @@ Requirements: CI/CD pipeline System
 https://www.linkedin.com/posts/ann-afamefuna_gitlab-activity-7190431397696749568-QUTf?utm_source=share&utm_medium=member_desktop - GitLab
 
 https://www.linkedin.com/posts/ann-afamefuna_git-activity-7190411791774990336-9s3-?utm_source=share&utm_medium=member_desktop - Git.
+
+https://www.linkedin.com/posts/ann-afamefuna_git-note-activity-7188568458693853185-l2KN?utm_source=share&utm_medium=member_desktop - Git Notes for professionals.
 
 https://www.linkedin.com/posts/ann-afamefuna_interview-activity-7190373203666464768-WsnU?utm_source=share&utm_medium=member_desktop - interview questions.
 
@@ -46,6 +48,10 @@ Lesson 2 ➡ https://lnkd.in/dJStSRtn
 Lesson 3 ➡ https://lnkd.in/dRv9WYbr
 Lesson 4 ➡ https://lnkd.in/dAQ7DCmX
 
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188627190668771329-4mcr?utm_source=share&utm_medium=member_desktop - Linux priviledge escalation.
+
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188542469439975424-uvyJ?utm_source=share&utm_medium=member_desktop - Linux common issues & Solutions. 
+
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189545073083113474-Gajg?utm_source=share&utm_medium=member_desktop - Kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189544744882946048-BYVZ?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189343715012853761-At9F?utm_source=share&utm_medium=member_desktop
@@ -53,6 +59,10 @@ https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-718934371501285
 https://www.linkedin.com/posts/ann-afamefuna_cka-activity-7189742496652922881-ACNE?utm_source=share&utm_medium=member_desktop - Cloud Native Certified Kubernetes Administrator
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7190250584724140032-ItPq?utm_source=share&utm_medium=member_desktop - Kubernetes pocket guide.
+
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188624363766628353-lasJ?utm_source=share&utm_medium=member_desktop - Kubernetes from scratch. 
+
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188714718155464705-zgjV?utm_source=share&utm_medium=member_desktop - Kuberneted for Teenagers
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188754211076009984--tsI?utm_source=share&utm_medium=member_desktop - Kubernetes security best practices. 
 
