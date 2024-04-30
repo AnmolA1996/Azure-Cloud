@@ -1,3 +1,6 @@
+https://www.linkedin.com/posts/ann-afamefuna_sql-activity-7184869138211758082-PrxI?utm_source=share&utm_medium=member_desktop - SQL free ebook
+
+
 https://www.linkedin.com/posts/ann-afamefuna_az900-activity-7189846130690560000-gHWE?utm_source=share&utm_medium=member_desktop - AZ 900 Handwritten Notes.
 https://www.linkedin.com/posts/ann-afamefuna_azure-activity-7189877427991433216-6zIS?utm_source=share&utm_medium=member_desktop - Azure Handbook (Microsoft Official).
 https://www.linkedin.com/posts/ann-afamefuna_microsoft-azure-activity-7185895366058258434-YhO7?utm_source=share&utm_medium=member_desktop - Azure Tips & Tricks. 
@@ -118,7 +121,7 @@ https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7187077414575849472-CV
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7185076085754130432-Y2vl?utm_source=share&utm_medium=member_desktop - AWS
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7183654016789233665-UvYD?utm_source=share&utm_medium=member_desktop - AWS handbook 
 https://www.linkedin.com/posts/ann-afamefuna_cloud-formation-activity-7183837520567099392-BADZ?utm_source=share&utm_medium=member_desktop - AWS Cloud formation.
-
+https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7182577382279503872-iC9s?utm_source=share&utm_medium=member_desktop - 
 
 Free DevOps Projects to build Your portfolio - ![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/da587f0f-b108-46f1-94ae-a3ed2e382391)
 https://www.linkedin.com/posts/ann-afamefuna_devop-cloudsecurity-devsecops-activity-7184126327644381185-L88A?utm_source=share&utm_medium=member_desktop
@@ -160,6 +163,7 @@ https://lnkd.in/dx3aY9VJ
 https://www.linkedin.com/posts/ann-afamefuna_networking-activity-7183287737549012994-N4ku?utm_source=share&utm_medium=member_desktop - networking. 
 https://www.linkedin.com/posts/ann-afamefuna_networking-activity-7182409895743287298-H45k?utm_source=share&utm_medium=member_desktop - Networking for devops 
 
+
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190121431840518144-3240?utm_source=share&utm_medium=member_desktop - DevOps Questions.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188815246201937921--RG3?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7189613995765489664-vNg7?utm_source=share&utm_medium=member_desktop - DevOps basics a beginner guide.
@@ -173,6 +177,7 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187406852375134208
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187031511353671680-RkBt?utm_source=share&utm_medium=member_desktop - DevOps interview guide.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7185421380857774080-kxzQ?utm_source=share&utm_medium=member_desktop - Devops interview question bank. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-interview-activity-7183196112265043969-cO6z?utm_source=share&utm_medium=member_desktop - Devops interview question bank. 
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7183162348948393984-AShj?utm_source=share&utm_medium=member_desktop - DevOps basics
 
 
 ![image](https://github.com/AnmolA1996/Azure-Cloud_and_DevOps_library/assets/105154769/cac79389-409b-496b-9903-5f9942e3a179)
@@ -265,6 +270,7 @@ https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7186501987906043904-
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7185830023151439872-Yi82?utm_source=share&utm_medium=member_desktop - Linux cmdline a beginner guide.
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7182868271149289472-Z_Yq?utm_source=share&utm_medium=member_desktop - Linux interview questions.
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7182962125730922496-bKBQ?utm_source=share&utm_medium=member_desktop - Linux basics & internals.
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7184699315787816960-e3Pq?utm_source=share&utm_medium=member_desktop - 100 Linux tips & tricks
 
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189545073083113474-Gajg?utm_source=share&utm_medium=member_desktop - Kubernetes
@@ -289,12 +295,15 @@ https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-718222823961069
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7182650670750068736-4awC?utm_source=share&utm_medium=member_desktop - kbuernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7183445573935525889-gjwE?utm_source=share&utm_medium=member_desktop - kubernetes best practises
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7184307832362602497-6biu?utm_source=share&utm_medium=member_desktop - Kubernetes stories
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7183509291385966592-6tUj?utm_source=share&utm_medium=member_desktop -  introduction to kubernetes
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7183445573935525889-gjwE?utm_source=share&utm_medium=member_desktop - Kubernetes Azure
 
 
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840-Snas?utm_source=share&utm_medium=member_desktop - Learn complete python in simple way.
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189615679203885059-stSn?utm_source=share&utm_medium=member_desktop - The Python handbook.
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7188373455728197632-OWQg?utm_source=share&utm_medium=member_desktop - Python Notes for Proffessionals.
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7185681242422460416-DPyK?utm_source=share&utm_medium=member_desktop - Python tutorial (Codes)
+
 
 https://www.linkedin.com/posts/ann-afamefuna_maven-activity-7188106407118790656-twpD?utm_source=share&utm_medium=member_desktop - Maven Project documentation. 
 
@@ -307,6 +316,7 @@ https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7186402526848507904
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7185341259203416064-SH95?utm_source=share&utm_medium=member_desktop - Docker Guide
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7184941087352901632-AJDb?utm_source=share&utm_medium=member_desktop - introduction to docker & docker swarm. 
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7183837826981978112-FGJv?utm_source=share&utm_medium=member_desktop - docker guide
+https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7183837826981978112-FGJv?utm_source=share&utm_medium=member_desktop - fresher docker guide
 
 
 https://www.linkedin.com/posts/ann-afamefuna_cloud-computing-activity-7187285320856440832-6br1?utm_source=share&utm_medium=member_desktop - Cloud computing basic
