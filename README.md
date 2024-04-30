@@ -1,7 +1,5 @@
 https://www.linkedin.com/posts/ann-afamefuna_az900-activity-7189846130690560000-gHWE?utm_source=share&utm_medium=member_desktop - AZ 900 Handwritten Notes.
-
 https://www.linkedin.com/posts/ann-afamefuna_azure-activity-7189877427991433216-6zIS?utm_source=share&utm_medium=member_desktop - Azure Handbook (Microsoft Official).
-
 https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7189115677226524672-MA4A?utm_source=share&utm_medium=member_desktop - Azure Devops practical guide.
 https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7188192531111632896-KDJZ?utm_source=share&utm_medium=member_desktop - Azure DevOps for Teenagers. 
 
@@ -9,6 +7,7 @@ https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-718990619395013427
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189283252463878144-pHDN?utm_source=share&utm_medium=member_desktop - Ansible Automation. 
 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-EFE3?utm_source=share&utm_medium=member_desktop -  How to set up CICD Pipeline
+https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187590378286366720-N910?utm_source=share&utm_medium=member_desktop - CICD with Docker & Kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7188470454485979136-nn-p?utm_source=share&utm_medium=member_desktop - CICD 86pg
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190638195150073856-znNk?utm_source=share&utm_medium=member_desktop - 
 Requirements: CI/CD pipeline System
@@ -21,18 +20,14 @@ Requirements: CI/CD pipeline System
 7. Kubernetes - As Container Management Tool.
 
 https://www.linkedin.com/posts/ann-afamefuna_gitlab-activity-7190431397696749568-QUTf?utm_source=share&utm_medium=member_desktop - GitLab
-
 https://www.linkedin.com/posts/ann-afamefuna_git-activity-7190411791774990336-9s3-?utm_source=share&utm_medium=member_desktop - Git.
-
 https://www.linkedin.com/posts/ann-afamefuna_git-note-activity-7188568458693853185-l2KN?utm_source=share&utm_medium=member_desktop - Git Notes for professionals.
 
 https://www.linkedin.com/posts/ann-afamefuna_interview-activity-7190373203666464768-WsnU?utm_source=share&utm_medium=member_desktop - interview questions.
 
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7190198925314711552-Hj2I?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7190121790541619200-SU1z?utm_source=share&utm_medium=member_desktop - AWS questions set in both links.
-
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189131929718296576-quA0?utm_source=share&utm_medium=member_desktop - AWS. 
-
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189734983165497344-ZMKK?utm_source=share&utm_medium=member_desktop - AWS Security
 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190121431840518144-3240?utm_source=share&utm_medium=member_desktop - DevOps Questions.
@@ -40,10 +35,9 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188815246201937921
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7189613995765489664-vNg7?utm_source=share&utm_medium=member_desktop - DevOps basics a beginner guide.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188290437856579584-_PYt?utm_source=share&utm_medium=member_desktop - DevOps question set. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188012011513921538--WHw?utm_source=share&utm_medium=member_desktop - DevOps interview questions. 
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187552471727104000-Jg_H?utm_source=share&utm_medium=member_desktop - DevOps interview questions.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187969704529936384-xqin?utm_source=share&utm_medium=member_desktop - Everything about devops questions. 
-
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188227494267797504-dVoK?utm_source=share&utm_medium=member_desktop - Mastering DevOps interviews. 
-
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190487622576717824-AY3A?utm_source=share&utm_medium=member_desktop - Future of DevOps.
 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
@@ -55,32 +49,29 @@ Lesson 3 ➡ https://lnkd.in/dRv9WYbr
 Lesson 4 ➡ https://lnkd.in/dAQ7DCmX
 
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188627190668771329-4mcr?utm_source=share&utm_medium=member_desktop - Linux priviledge escalation.
-
 https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7188542469439975424-uvyJ?utm_source=share&utm_medium=member_desktop - Linux common issues & Solutions. 
+https://www.linkedin.com/posts/ann-afamefuna_linux-activity-7187511122860642306-Z48U?utm_source=share&utm_medium=member_desktop - Linux troubleshooting scenarios. 
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189545073083113474-Gajg?utm_source=share&utm_medium=member_desktop - Kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189544744882946048-BYVZ?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189343715012853761-At9F?utm_source=share&utm_medium=member_desktop
 
 https://www.linkedin.com/posts/ann-afamefuna_cka-activity-7189742496652922881-ACNE?utm_source=share&utm_medium=member_desktop - Cloud Native Certified Kubernetes Administrator
-
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7187664328697798657-2Bzr?utm_source=share&utm_medium=member_desktop - Kubernetes Cheat sheet
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7190250584724140032-ItPq?utm_source=share&utm_medium=member_desktop - Kubernetes pocket guide.
 
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188624363766628353-lasJ?utm_source=share&utm_medium=member_desktop - Kubernetes from scratch. 
-
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188714718155464705-zgjV?utm_source=share&utm_medium=member_desktop - Kuberneted for Teenagers
-
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7188754211076009984--tsI?utm_source=share&utm_medium=member_desktop - Kubernetes security best practices. 
 
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189380822104227840-Snas?utm_source=share&utm_medium=member_desktop - Learn complete python in simple way.
-
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7189615679203885059-stSn?utm_source=share&utm_medium=member_desktop - The Python handbook.
-
 https://www.linkedin.com/posts/ann-afamefuna_python-activity-7188373455728197632-OWQg?utm_source=share&utm_medium=member_desktop - Python Notes for Proffessionals.
 
 https://www.linkedin.com/posts/ann-afamefuna_maven-activity-7188106407118790656-twpD?utm_source=share&utm_medium=member_desktop - Maven Project documentation. 
 
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7189380382838968320-qIX4?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet. 
+https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187783202684452864-FPez?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328-gyuu?utm_source=share&utm_medium=member_desktop - Docker
 
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
