@@ -6,7 +6,7 @@ https://www.linkedin.com/posts/ann-afamefuna_azure-devops-activity-7188192531111
 
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189906193950134272-3d4x?utm_source=share&utm_medium=member_desktop - Ansible for Teenagers.
 https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7189283252463878144-pHDN?utm_source=share&utm_medium=member_desktop - Ansible Automation. 
-
+https://www.linkedin.com/posts/ann-afamefuna_ansible-activity-7187076166732636160-HPD0?utm_source=share&utm_medium=member_desktop - Expertise in Ansible Automation. 
 
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7190747618384220160-EFE3?utm_source=share&utm_medium=member_desktop -  How to set up CICD Pipeline
 https://www.linkedin.com/posts/ann-afamefuna_cicd-activity-7187590378286366720-N910?utm_source=share&utm_medium=member_desktop - CICD with Docker & Kubernetes.
@@ -36,6 +36,7 @@ https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7190198925314711552-Hj
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7190121790541619200-SU1z?utm_source=share&utm_medium=member_desktop - AWS questions set in both links.
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189131929718296576-quA0?utm_source=share&utm_medium=member_desktop - AWS. 
 https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7189734983165497344-ZMKK?utm_source=share&utm_medium=member_desktop - AWS Security
+https://www.linkedin.com/posts/ann-afamefuna_aws-activity-7187077414575849472-CVc8?utm_source=share&utm_medium=member_desktop - AWS Lab practical guide. 
 
 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190121431840518144-3240?utm_source=share&utm_medium=member_desktop - DevOps Questions.
@@ -48,6 +49,7 @@ https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187969704529936384
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7188227494267797504-dVoK?utm_source=share&utm_medium=member_desktop - Mastering DevOps interviews. 
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7190487622576717824-AY3A?utm_source=share&utm_medium=member_desktop - Future of DevOps.
 https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187406852375134208-vF0g?utm_source=share&utm_medium=member_desktop - DevOps interview questions.
+https://www.linkedin.com/posts/ann-afamefuna_devops-activity-7187031511353671680-RkBt?utm_source=share&utm_medium=member_desktop - DevOps interview guide. 
 
 
 https://www.linkedin.com/posts/ann-afamefuna_terraform-activity-7190097930647703552-VKR3?utm_source=share&utm_medium=member_desktop - Terraform. 
@@ -88,7 +90,7 @@ https://www.linkedin.com/posts/ann-afamefuna_maven-activity-7188106407118790656-
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7189380382838968320-qIX4?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet. 
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187783202684452864-FPez?utm_source=share&utm_medium=member_desktop - Docker Cheat sheet
 https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7188346185865187328-gyuu?utm_source=share&utm_medium=member_desktop - Docker
-
+https://www.linkedin.com/posts/ann-afamefuna_docker-activity-7187140955764834305-O009?utm_source=share&utm_medium=member_desktop - Docked Kubernetes Helm
 
 https://www.linkedin.com/posts/ann-afamefuna_jenkins-activity-7188073724816875520-Y7mO?utm_source=share&utm_medium=member_desktop - Jenkins free
 
