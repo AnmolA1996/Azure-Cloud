@@ -1,4 +1,5 @@
 https://www.linkedin.com/posts/ann-afamefuna_sql-activity-7184869138211758082-PrxI?utm_source=share&utm_medium=member_desktop - SQL free ebook
+https://www.linkedin.com/posts/ann-afamefuna_sql-activity-7181938776007471104-uIID?utm_source=share&utm_medium=member_desktop - SQL free ebook
 
 
 https://www.linkedin.com/posts/ann-afamefuna_az900-activity-7189846130690560000-gHWE?utm_source=share&utm_medium=member_desktop - AZ 900 Handwritten Notes.
@@ -107,9 +108,10 @@ Requirements: CI/CD pipeline System
 https://www.linkedin.com/posts/ann-afamefuna_gitlab-activity-7190431397696749568-QUTf?utm_source=share&utm_medium=member_desktop - GitLab
 https://www.linkedin.com/posts/ann-afamefuna_gitops-activity-7186214176300662784-ZuFg?utm_source=share&utm_medium=member_desktop - A beginner guide to Gitops
 https://www.linkedin.com/posts/ann-afamefuna_git-activity-7190411791774990336-9s3-?utm_source=share&utm_medium=member_desktop - Git.
+https://www.linkedin.com/posts/ann-afamefuna_git-activity-7181867946330247168-Qjzh?utm_source=share&utm_medium=member_desktop - Git.
 https://www.linkedin.com/posts/ann-afamefuna_git-note-activity-7188568458693853185-l2KN?utm_source=share&utm_medium=member_desktop - Git Notes for professionals.
 https://www.linkedin.com/posts/ann-afamefuna_git-activity-7182467047962906624-hjBQ?utm_source=share&utm_medium=member_desktop - Git cheatsheet
-
+https://www.linkedin.com/posts/ann-afamefuna_git-cheat-sheet-activity-7181868047312310272-wyE_?utm_source=share&utm_medium=member_desktop - Git cheatsheet
 https://www.linkedin.com/posts/ann-afamefuna_interview-activity-7190373203666464768-WsnU?utm_source=share&utm_medium=member_desktop - interview questions.
 
 
