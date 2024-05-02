@@ -279,6 +279,7 @@ https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-718954507308311
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189544744882946048-BYVZ?utm_source=share&utm_medium=member_desktop
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7189343715012853761-At9F?utm_source=share&utm_medium=member_desktop
 
+https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7191828479460421632-XjwZ?utm_source=share&utm_medium=member_android - Kubernetes notes beginner to advanced.
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7186252919615172608-y_yg?utm_source=share&utm_medium=member_desktop - Kubernetes notes beginner to advanced.
 https://www.linkedin.com/posts/ann-afamefuna_kubernetes-activity-7183509291385966592-6tUj?utm_source=share&utm_medium=member_desktop - intro to kubernetes
 https://www.linkedin.com/posts/ann-afamefuna_cka-activity-7189742496652922881-ACNE?utm_source=share&utm_medium=member_desktop - Cloud Native Certified Kubernetes Administrator
